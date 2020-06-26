@@ -3,23 +3,23 @@ This activity reviews a Recurrent Neural Network (RNN) model's ability to predic
 
 
 ### Fear and Greed Index LSTM Model
-![](../Images/FNGloss.jpg)
+![](Images/FNGloss.jpg)
 <br/>
-![](../Images/FNGParam.jpg)
+![](Images/FNGParam.jpg)
 <br/>
-![](../Images/FNGtable.jpg)
+![](Images/FNGtable.jpg)
 <br/>
-![](../Images/FNGat5.jpg)
+![](Images/FNGat5.jpg)
 
 
 ### Closing Prices LSTM Model
-![](../Images/CLSloss.jpg)
+![](Images/CLSloss.jpg)
 <br/>
-![](../Images/CLSparam.jpg)
+![](Images/CLSparam.jpg)
 <br/>
-![](../Images/CLStable.jpg)
+![](Images/CLStable.jpg)
 <br/>
-![](../Images/CLSat5.jpg)
+![](Images/CLSat5.jpg)
 
 ### Conclusion
 **Which model has a lower loss?**<br/>

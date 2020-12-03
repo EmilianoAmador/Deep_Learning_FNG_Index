@@ -1,5 +1,6 @@
 # Neurotic Fear and Greed Index to Predict Closing Prices
 ![](Images/FN-Image.jpg)
+<br/>
 This activity reviews a Recurrent Neural Network (RNN) model's ability to predict Bitcoin closing prices using Fear and Greed Index historic data. More specifically, this activity focuses on Long-Short Term Memory (LSTM) model, a type of RNN with a mathematical backbone perfect for recognizing patterns in sequence of numerical data, to compare its predictive ability when trained with FNG historical data versus when it's trained with closing price historical data. Then its performance is reviewed to illustrate which data is more valuable when predicting future results.
 
 

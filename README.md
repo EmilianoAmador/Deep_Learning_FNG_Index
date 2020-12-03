@@ -23,11 +23,7 @@ This activity reviews a Recurrent Neural Network (RNN) model's ability to predic
 ![](Images/CLSat5.png)
 
 ### Conclusion
-**Which model has a lower loss?**<br/>
-The model training with closing prices has a lower loss number of 0.015, while the one training with FNG index has a loss function of 0.13
 
-**Which model tracks the actual values better over time?**<br/>
-The model using the closing prices tracks the actual values better than the FNG model. The FNG model does not come near to predicting the actual values correctly.
+The training model with closing prices has a lower loss number of 0.015, while the one training with FNG index has a loss function of 0.13. This means that the training model with the closing prices made less errors after each iteration of optimization. Therefore, this model can track the actual values better than the FNG model. The FNG model does not come near to th epredicting power of the other model.
 
-**Which window size works best for the model?**<br/>
-The window size that works best for the models is 1. The lower the window the better the performance. However, their unit number features affect their performance differently. the FNG performs better with a unit numbers of 30, while the closing price model performs better with a unit number of 5.
+One detail I noticed was that the models performed best with a window size of 1. The higher the window the worst the performance. As far as the unit number features, the model demonstrated opposing performance. the FNG performs better with a unit numbers of 30, while the closing price model performs better with a unit number of 5. All in all, more research must be done before using these models in an investment firm.
